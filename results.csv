@@ -1,0 +1,25 @@
+Size,Dataset,Algorithm,Median time (ms),Peak traced memory (KiB)
+100,Sorted,Merge Sort,0.1008,2.617
+100,Sorted,Quick Sort,0.4571,0.383
+100,Reverse sorted,Merge Sort,0.1091,2.617
+100,Reverse sorted,Quick Sort,0.2806,0.383
+100,Random,Merge Sort,0.202,2.617
+100,Random,Quick Sort,0.0592,0.383
+250,Sorted,Merge Sort,0.2665,5.078
+250,Sorted,Quick Sort,2.1032,0.383
+250,Reverse sorted,Merge Sort,0.3212,5.078
+250,Reverse sorted,Quick Sort,1.7687,0.383
+250,Random,Merge Sort,0.3141,5.078
+250,Random,Quick Sort,0.1572,0.383
+500,Sorted,Merge Sort,0.8964,9.375
+500,Sorted,Quick Sort,8.2078,0.57
+500,Reverse sorted,Merge Sort,0.6716,9.375
+500,Reverse sorted,Quick Sort,7.4015,0.539
+500,Random,Merge Sort,0.7598,9.375
+500,Random,Quick Sort,0.3755,0.82
+1000,Sorted,Merge Sort,1.4776,18.047
+1000,Sorted,Quick Sort,38.7253,0.57
+1000,Reverse sorted,Merge Sort,1.6997,18.047
+1000,Reverse sorted,Quick Sort,30.4846,0.602
+1000,Random,Merge Sort,2.5679,18.047
+1000,Random,Quick Sort,1.1192,1.008
